@@ -17,7 +17,11 @@ Note that due to the business cooperation, the open-source code of path planning
 
 
 Speed planning:
-      In order to visually show the effect of vehicle speed planning, the related program is integrated in the Qt with C++. 
-      Dependency:  
-      1. osqp 0.4.0 (Pay attention to the version, otherwise an error will be reported);
-      2. Qcustomplot.
+In order to visually show the effect of vehicle speed planning, the related program is integrated in the Qt with C++. 
+Dependency:  
+1. osqp 0.4.0 (Pay attention to the version, otherwise an error will be reported);
+2. Qcustomplot.
+
+
+If you have any question, please contact us. 
+Email: leehan@buaa.edu.cn
