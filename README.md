@@ -1,6 +1,6 @@
 # Learning-based-path-planner
 
-This is the open-source code for the article: Trajectory Planning for Autonomous Driving in Unstructured Scenario with Learning-based Network and Optimization method. The repo mainly includes two module: path planning and speed planning.
+This is the open-source code for the article: Trajectory Planning for Autonomous Driving in Unstructured Scenario with Learning-based Network and Optimization method. The repo mainly includes two module: path planning and speed planning. The code is being sorted out and will be uploaded successively
 
 
 Path planning:
@@ -15,8 +15,7 @@ command:
 run: 
       python main_nagivation_prediction.py
 
-Note that due to the business cooperation, the open-source code of path planning is rebuiled on Python. Its running speed will be lower than the C++ version. Interested developers can write their own according to the open source code. 
-
+Note that due to the requirements for business cooperation, the open-source code of path planning is rebuiled on Python. Its running speed will be lower than the C++ version. Interested developers can write their own in C++ according to the open source code. 
 
 Speed planning:
 In order to visually show the effect of vehicle speed planning, the related program is integrated in the Qt with C++. 
