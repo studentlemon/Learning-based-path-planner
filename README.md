@@ -9,7 +9,7 @@ Path planning:
 command: 
        python gui.py 
 
-![image]https://github.com/studentlemon/Learning-based-path-planner/blob/main/MCTS%20result.gif
+![image](https://github.com/studentlemon/Learning-based-path-planner/blob/main/MCTS%20result.gif)
 
 2. The training network is located in segmentation networks which developers can test the performance of prediction. You can train and eval by yourself.
 run: 
@@ -24,6 +24,6 @@ Dependency:
 1. osqp 0.4.0 (Pay attention to the version, otherwise an error will be reported);
 2. Qcustomplot.
 
-
+![image](https://github.com/studentlemon/Learning-based-path-planner/blob/main/speed.svg)
 If you have any question, please contact us. 
 Email: leehan@buaa.edu.cn
